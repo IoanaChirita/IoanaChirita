@@ -1,4 +1,4 @@
-👋 Hi there! I'm Ioana, a 28-year-old technology enthusiast with a background 
+👋 Hi there! I'm Ioana, a technology enthusiast with a background 
 in Geological Engineering and a master's degree in Petroleum Geology.
 
 🐍 Currently, I'm honing my skills in Python and exploring the field 
